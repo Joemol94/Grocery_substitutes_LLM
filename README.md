@@ -21,9 +21,13 @@ A Streamlit-based application that helps users find suitable substitutes for ing
 
 ## Project Structure
 ├── app.py # Main Streamlit application
+
 ├── response_generator.py # Response template and logic
+
 ├── llm_initialize.py # LLM initialization and configuration
+
 ├── web_scraping.py # Price data scraping functionality from URLs
+
 └── README.md # Project documentation
 
 ## Usage
