@@ -11,6 +11,8 @@ A Streamlit-based application that helps users find suitable substitutes for ing
 - Similarity scores for recommended substitutes
 - Quick response time through optimized caching
 
+  <video src="https://github.com/rayytsn9/ROBOTT/assets/79029536/62f541aa-aa8c-43f5-9ead-4b7a2e0d7c2a" width="300" />
+
 ## Tech Stack
 
 - **Frontend**: Streamlit
