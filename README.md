@@ -11,7 +11,7 @@ A Streamlit-based application that helps users find suitable substitutes for ing
 - Similarity scores for recommended substitutes
 - Quick response time through optimized caching
 
-  <video src="https://github.com/Joemol94/Grocery_substitutes_LLM/blob/main/app_substitutes.mp4" width="300" />
+<video src="https://github.com/Joemol94/Grocery_substitutes_LLM/blob/main/app_substitutes.mp4" width="300" />
 
 ## Tech Stack
 
